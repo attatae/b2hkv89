@@ -10,9 +10,9 @@ Live demo hosted here on Heroku (database is reset daily):
 
 Summary
 -------
-Kanban is a work-in-progress Trello clone I developed for a final project at [App Academy](http://appacademy.io), a 9-week Ruby on Rails and JavaScript web development intensive in San Francisco.
+Kanban is a work-in-progress Trello clone.
 
-Built with Ruby on Rails on the backend as a JSON API for Backbone.js on the frontend.
+Built with Ruby on Rails on the backend as a JSON API for Backbone.JS on the frontend.
 
 Notes
 -----
@@ -24,7 +24,5 @@ Notes
 
 License
 -------
-Kanban is released under the [MIT License](/LICENSE).
+This repository is released under the proprietary license, all rights reserved. Copyright 2014©.
 
----
-Developed by [Sean Omlor](http://seanomlor.com)
