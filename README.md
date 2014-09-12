@@ -1,16 +1,9 @@
 KANBAN 看板
 ===========
 
-Demo
-----
-Live demo hosted here on Heroku (database is reset daily):
-[**LIVE DEMO**](http://kanban.seanomlor.com)
-
-[![Screenshot](/app/assets/images/screenshot.jpg)](http://kanban.seanomlor.com)
-
 Summary
 -------
-Kanban is a work-in-progress Trello clone.
+Kanban is a work-in-progress [**Trello**](http://trello.com) clone.
 
 Built with Ruby on Rails on the backend as a JSON API for Backbone.JS on the frontend.
 
@@ -24,5 +17,5 @@ Notes
 
 License
 -------
-This repository is released under the proprietary license, all rights reserved. Copyright 2014©.
+This repository is released under a proprietary license, all rights reserved. Copyright 2014 © Eigensoft.
 
