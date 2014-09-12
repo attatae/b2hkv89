@@ -5,6 +5,8 @@ Summary
 -------
 Kanban is a work-in-progress [**Trello**](http://trello.com) clone.
 
+[![Screenshot](/app/assets/images/screenshot.jpg)]
+
 Built with Ruby on Rails on the backend as a JSON API for Backbone.JS on the frontend.
 
 Notes
