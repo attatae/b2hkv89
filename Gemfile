@@ -9,7 +9,10 @@ gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'rabl'
 gem 'therubyracer'
-gem 'thin'
+gem 'unicorn'
+gem 'pg',               '>= 0.17.1'
+
+gem 'rails_12factor', group: :production
 
 group :assets do
   gem 'coffee-rails', '~> 3.2.1'
@@ -27,12 +30,4 @@ group :development do
   gem 'pry-rails'
   gem 'rails-erd'
   gem 'seed_dump'
-end
-
-group :development, :test do
-  gem 'sqlite3'
-end
-
-group :production do
-  gem 'pg'
 end
